@@ -16,3 +16,7 @@
     box-shadow: inset 0px 2px 5px darkgray;
     width: 200px;
 }
+
+@media (max-width: 800px) {
+    .logo img { width: 150px; }
+}

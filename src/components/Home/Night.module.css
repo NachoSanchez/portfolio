@@ -1,5 +1,6 @@
 .home {
     background-color: #2b2b2b;
     height: 100vh;
+    transition: background .3s ease-out;
     width: 100%;
 }
