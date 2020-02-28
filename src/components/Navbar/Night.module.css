@@ -8,7 +8,7 @@
 }
 
 .nav-links, .social-links {
-    animation: fade-in 1.5s ease-in;
+    animation: fade-in .5s ease-in;
     display: flex;
     list-style: none; 
 }
