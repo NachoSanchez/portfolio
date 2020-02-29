@@ -5,6 +5,7 @@
     padding: 10px 3rem;
     position: sticky;
     transition: background .3s ease-out;
+    z-index: 1;
 }
 
 .nav-links, .social-links {
