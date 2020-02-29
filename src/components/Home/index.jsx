@@ -8,7 +8,7 @@ const Home = () => {
     const styles = dark ? darkTheme : lightTheme;
 
     return (
-        <section className={styles.home}>
+        <section id="home"className={styles.home}>
             
         </section>
     )

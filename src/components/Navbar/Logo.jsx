@@ -4,7 +4,7 @@ import styles from './Logo.module.css';
 
 const Logo = () => {
     return (
-       <a href="home" className={ styles.logo }>
+       <a href="#home" className={ styles.logo }>
            <img src={logo} alt="..."/>
        </a> 
     )
